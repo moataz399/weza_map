@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412193064999",
+    "project_id": "wrza-maps",
+    "storage_bucket": "wrza-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412193064999:android:124e91a3006cd81a3ea602",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412193064999-k61529if4friarbd7qdnce9v8k6i5oas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.map",
+            "certificate_hash": "cc4bd0ce7cacddef2c81381f6a611c9f909155f8"
+          }
+        },
+        {
+          "client_id": "412193064999-o3hm030u4dmmi6d2rgq0csj9d0cr0t87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDikERnrYonlLPQhPD-PUfhzvalYpZFUSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412193064999-o3hm030u4dmmi6d2rgq0csj9d0cr0t87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
